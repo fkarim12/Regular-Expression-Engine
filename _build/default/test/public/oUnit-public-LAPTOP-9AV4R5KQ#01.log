@@ -1,0 +1,6 @@
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#01 I: Start test public:0:nfa_accept.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#01 I: Test public:0:nfa_accept is successful.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#01 I: End test public:0:nfa_accept.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#01 I: Start test public:7:nfa_new_trans.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#01 I: Test public:7:nfa_new_trans is successful.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#01 I: End test public:7:nfa_new_trans.

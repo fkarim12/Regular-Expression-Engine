@@ -1,0 +1,6 @@
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#04 I: Start test public:3:nfa_to_dfa.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#04 I: Test public:3:nfa_to_dfa is successful.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#04 I: End test public:3:nfa_to_dfa.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#04 I: Start test public:9:regex_to_nfa.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#04 I: Test public:9:regex_to_nfa is successful.
+2021-11-03T02:56:39+00:00 LAPTOP-9AV4R5KQ#04 I: End test public:9:regex_to_nfa.
